@@ -1,0 +1,28 @@
+name: 'Fools! Improv Comedy'
+favicon: null
+layout_spectrum: 0.04279415379278362
+typography_spectrum: 0.6789906462654471
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.12206754926592112
+  lightness: 0.839422944933176
+  saturation: 0.7131467354483902
+  rhythmicContrast: 0.0507618838455528
+purpose: []
